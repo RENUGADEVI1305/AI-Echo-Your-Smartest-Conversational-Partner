@@ -7,9 +7,13 @@
 
 ## Business Use Cases
 ● Customer Feedback Analysis: Understand customer opinions to improve product features.
+
 ● Brand Reputation Management: Monitor user sentiment over time to assess overall perception.
+
 ● Feature Enhancement: Identify areas for improvement based on negative and neutral reviews.
+
 ● Automated Customer Support: Prioritize customer complaints based on sentiment classification.
+
 ● Marketing Strategy Optimization: Develop better engagement strategies based on sentiment insights.
 
 ## Sentiment Workflow
@@ -22,7 +26,9 @@
 
 ## Technical Tags
 ● Technologies: Python, NLP, Machine Learning, Deep Learning
+
 ● Libraries: Pandas, NLTK, Scikit-learn, Matplotlib, Seaborn
+
 ● Deployment: Streamlit.
 
 | Category            | Tools Used                                   |
@@ -44,9 +50,9 @@
 
 ## Conclusion
 AI Echo is a Streamlit-based app that:
-Accepts ChatGPT review text
-Performs sentiment analysis (Positive/Neutral/Negative)
-Provides exploratory data insights (EDA)
-Shows trend patterns and keyword analysis
-Uses Hybrid ML models for accurate prediction
+- Accepts ChatGPT review text
+- Performs sentiment analysis (Positive/Neutral/Negative)
+- Provides exploratory data insights (EDA)
+- Shows trend patterns and keyword analysis
+- Uses Hybrid ML models for accurate prediction
 
